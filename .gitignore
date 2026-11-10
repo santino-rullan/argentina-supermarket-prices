@@ -1,0 +1,25 @@
+# Raw SEPA downloads (large, rebuilt from the official source)
+data/raw/*
+!data/raw/.gitkeep
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Power BI temporary and lock files
+*.pbix.lock
+~$*
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Consolidated files are large and can be rebuilt with scripts/01_consolidate_sepa.py
+data/processed/*
+!data/processed/.gitkeep
+.vs/
