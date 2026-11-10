@@ -45,4 +45,4 @@ SQL Server (T-SQL) · Python · Power BI (DAX, Power Query) · Git
 
 ## Author
 
-**Santino Rullán** · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · santinorullan06@gmail.com
+**Santino Rullán** · [LinkedIn](https://www.linkedin.com/in/santinorullan) · santinorullan06@gmail.com
